@@ -1,4 +1,4 @@
-# Neural_Based_Statement_Classification_for_Biased_Language_WSDM2019
+# Neural Based Statement Classification for Biased Language
 
 Biased and neutral statements as used in our work:
 
